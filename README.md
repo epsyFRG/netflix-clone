@@ -13,7 +13,7 @@ This page is a personal project made in connection with an educational exercise.
 
 ---
 
-##  <img src=" <img src="https://www.emagister.it/assets/it/logos/centro/id/106747/size/l.png;" />;" /> Consegna
+##  <img src="https://media.corsidia.com/as/schools/52669/vars/ha2btcn/EPICODE-pitto-color.png;" />;" /> Consegna
 
 Netflix Clone:
 
