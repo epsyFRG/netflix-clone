@@ -15,7 +15,13 @@ This page is a personal project made in connection with an educational exercise.
 
 ## 📦 Consegna
 
+Netflix Clone:
 
+Nel progetto di oggi ti occuperai di replicare un'applicazione famosa in tutte le sue parti, aiutandoti con Bootstrap e i suoi componenti per raggiungere il risultato con un approccio responsive.
+
+In front-end development è importante riuscire ad ottenere un risultato fedele a partire da un riferimento come un mockup o prototipo. Ti verranno quindi fornite delle immagini per le pagine che dovrai costruire, dedica del tempo a pianificare la struttura, soprattutto nelle parti più complicate.
+
+Presta particolare attenzione alle griglie, gutter e allineamenti.
 
 ---
 
