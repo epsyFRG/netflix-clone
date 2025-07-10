@@ -13,7 +13,7 @@ This page is a personal project made in connection with an educational exercise.
 
 ---
 
-## 📦 Consegna
+## 📦 Consegna <img src="https://brandfetch.com/epicode.com/logo.png" width="30px" style="vertical-align:middle;" />
 
 Netflix Clone:
 
