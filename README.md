@@ -13,7 +13,7 @@ This page is a personal project made in connection with an educational exercise.
 
 ---
 
-## 📦 Consegna <img src="https://raw.githubusercontent.com/MKLNGLO/Epicode-W1-D2/main/logo.png" width="30px" style="vertical-align:middle;" />
+## 📦 Consegna <img src="https://www.emagister.it/assets/it/logos/centro/id/106747/size/l.png;" />
 
 Netflix Clone:
 
