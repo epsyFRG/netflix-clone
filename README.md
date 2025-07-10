@@ -13,7 +13,8 @@ This page is a personal project made in connection with an educational exercise.
 
 ---
 
-##  <img src="https://media.corsidia.com/as/schools/52669/vars/ha2btcn/EPICODE-pitto-color.png;" />;" /> Consegna
+## 📦 Consegna
+
 
 Netflix Clone:
 
