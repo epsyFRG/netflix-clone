@@ -13,15 +13,9 @@ This page is a personal project made in connection with an educational exercise.
 
 ---
 
-## 📦 Consegna
+## 📦 Consegna <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px" style="vertical-align:middle;" />
 
-<p align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align:middle;" />
-  <strong>Consegna #1:</strong> <!-- Qui puoi descrivere la consegna -->
-  <br>
-  Data: <!-- Inserisci la data -->
-  <br>
-  Note: <!-- Dettagli aggiuntivi -->
-</p>
+
 
 ---
+
